@@ -1,6 +1,8 @@
 # REEL
 [WIP] Read Eval Edit Loop: A REPL that is a text editor
 
+## Rationale
+
 A common REPL-driven workflow in Clojure is to use the REPL inside your editor. This is just the opposite - we put the text editor in your REPL. Think [Rebel readline](https://github.com/bhauman/rebel-readline) with the ability to save files.
 
 Why? For the times when we're doing something in the terminal and then need to create/edit a file, and would rather not have to stop and open a text editor. For simple cases, you can do this:
