@@ -10,4 +10,4 @@ $ cat > myfile
 my text
 ```
 
-This can be useful if you are demonstrating something in the shell and want to present a clean sequence of commands. No clearing of the screen, nothing disrupting the continuity of your workflow. But then you have no multiline editing so it's only useful for creating one-off files. I wanted something in between a _line editor_, like [ed](https://en.wikipedia.org/wiki/Ed_(text_editor)), and a full _screen editor_ like vi.
+This can be useful if you are demonstrating something in the shell and want to present a clean sequence of commands. No clearing of the screen, nothing disrupting the continuity of your workflow. But then you have no multiline editing so it's only useful for creating one-off files. I wanted something in between a _line editor_, like [ed](https://en.wikipedia.org/wiki/Ed_(text_editor)), and a full _screen editor_ like vi. An editor with a polished multiline experience that completely stays out of your way.
